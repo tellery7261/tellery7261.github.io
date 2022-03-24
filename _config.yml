@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cloud Portfolio"
+title                    : "Timothy Ellery - Cloud Portfolio"
 title_separator          : "-"
 name                     : &name "Timothy Ellery"
 description              : &description "personal description"

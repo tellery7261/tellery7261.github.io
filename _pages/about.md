@@ -30,22 +30,22 @@ Skills
 .htm {width: 25%; background-color: #f54242;} /* Red */
 </style>
 
-<p>C#</p>
+C#
 <div class="container">
   <div class="skills csh">Intermediate</div>
 </div>
 
-<p>Java</p>
+Java
 <div class="container">
   <div class="skills jav">Novice</div>
 </div>
 
-<p>JavaScript</p>
+JavaScript
 <div class="container">
   <div class="skills jvs">Beginner</div>
 </div>
 
-<p>HTML/CSS</p>
+HTML/CSS
 <div class="container">
   <div class="skills htm">Beginner</div>
 </div>

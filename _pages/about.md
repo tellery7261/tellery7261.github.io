@@ -20,27 +20,34 @@ Skills
 .skills {
   text-align: right;
   padding-top: 10px;
+  padding-right: 12px;
   padding-bottom: 10px;
   color: white;
 }
-.html {width: 90%; background-color: #04AA6D;} /* Green */
-.css {width: 80%; background-color: #2196F3;} /* Blue */
-.php {width: 60%; background-color: #808080;} /* Dark Grey */
+.csh {width: 60%; background-color: #42f542;} /* Green */
+.jav {width: 45%; background-color: #4242f5;} /* Blue */
+.jvs {width: 30%; background-color: ##f54242;}/* Yellow */
+.htm {width: 25%; background-color: #f54242;} /* Red */
 </style>
 
-<p>HTML</p>
+<p>C#</p>
 <div class="container">
-  <div class="skills html">90%</div>
+  <div class="skills csh">Intermediate</div>
 </div>
 
-<p>CSS</p>
+<p>Java</p>
 <div class="container">
-  <div class="skills css">80%</div>
+  <div class="skills css">Intermediate</div>
 </div>
 
-<p>PHP</p>
+<p>JavaScript</p>
 <div class="container">
-  <div class="skills php">60%</div>
+  <div class="skills jvs">Novice</div>
+</div>
+
+<p>HTML/CSS</p>
+<div class="container">
+  <div class="skills htm">Beginner%</div>
 </div>
 
 Getting started

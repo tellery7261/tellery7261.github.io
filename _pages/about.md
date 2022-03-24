@@ -14,7 +14,7 @@ Skills
 <style>
 * {box-sizing:border-box}
 .container {
-  width: 100%;
+  width: 75%;
   background-color: #ddd;
 }
 .skills {

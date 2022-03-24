@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an 18 year old college student enrolled in [Conestoga College](https://www.conestogac.on.ca)'s Computer Programming and Analysis program. My main interests Object-Oriented Programming and GUI Programming.
 About Me
 ======
-I am an 18 year old college student enrolled in [Conestoga College](https://www.conestogac.on.ca)'s Computer Programming and Analysis program. My main interests are Object-Oriented Programming and GUI Programming.
+I am an 18 year old college student enrolled in [Conestoga College](https://www.conestogac.on.ca)'s Computer Programming and Analysis program. My main interests Object-Oriented Programming and GUI Programming.
 
 Skills
 ------
@@ -53,7 +52,7 @@ HTML/CSS
   <div class="skills htm">Beginner</div>
 </div>
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
@@ -84,4 +83,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

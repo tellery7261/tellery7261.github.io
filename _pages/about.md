@@ -37,7 +37,7 @@ Skills
 
 <p>Java</p>
 <div class="container">
-  <div class="skills css">Intermediate</div>
+  <div class="skills jav">Intermediate</div>
 </div>
 
 <p>JavaScript</p>
@@ -47,7 +47,7 @@ Skills
 
 <p>HTML/CSS</p>
 <div class="container">
-  <div class="skills htm">Beginner%</div>
+  <div class="skills htm">Beginner</div>
 </div>
 
 Getting started

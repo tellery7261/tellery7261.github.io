@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an 18 year old college student, enrolled in [Conestoga College](https://www.conestogac.on.ca)'s Computer Programming and Analysis program. My main interests in programming are 
+I am an 18 year old college student, enrolled in [Conestoga College](https://www.conestogac.on.ca)'s Computer Programming and Analysis program. My main interests in programming are
 
 Skills
 ======
@@ -32,6 +32,7 @@ Skills
 .php {width: 60%; background-color: #808080;} /* Dark Grey */
 </style>
 <p>HTML</p>
+<div class=container">
 <div class="container">
   <div class="skills html">90%</div>
 </div>
@@ -49,6 +50,7 @@ Skills
 <p>PHP</p>
 <div class="container">
   <div class="skills php">60%</div>
+</div>
 </div>
 
 Getting started

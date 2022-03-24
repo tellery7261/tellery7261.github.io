@@ -26,7 +26,7 @@ Skills
 }
 .csh {width: 60%; background-color: #42f542;} /* Green */
 .jav {width: 45%; background-color: #4242f5;} /* Blue */
-.jvs {width: 30%; background-color: #f5f542;}/* Yellow */
+.jvs {width: 30%; background-color: #f2b90d;}/* Yellow */
 .htm {width: 25%; background-color: #f54242;} /* Red */
 </style>
 

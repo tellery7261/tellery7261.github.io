@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an 18 year old college student enrolled in [Conestoga College](https://www.conestogac.on.ca)'s Computer Programming and Analysis program. My main interests Object-Oriented Programming and GUI Programming.
+I am an 18 year old college student enrolled in [Conestoga College](https://www.conestogac.on.ca)'s Computer Programming and Analysis program. My main interests are Object-Oriented Programming and GUI Programming.
 
 Skills
 ------

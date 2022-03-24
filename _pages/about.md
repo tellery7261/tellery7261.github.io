@@ -25,7 +25,6 @@ Skills
 }
 .html {width: 90%; background-color: #04AA6D;} /* Green */
 .css {width: 80%; background-color: #2196F3;} /* Blue */
-.js {width: 65%; background-color: #f44336;} /* Red */
 .php {width: 60%; background-color: #808080;} /* Dark Grey */
 </style>
 

@@ -26,29 +26,29 @@ Skills
   color: white;
 }
 
-.html {width: 90%; background-color: #04AA6D;} /* Green */
-.css {width: 80%; background-color: #2196F3;} /* Blue */
-.js {width: 65%; background-color: #f44336;} /* Red */
-.php {width: 60%; background-color: #8A8A8A;} /* Dark Grey */
+.csh {width: 60%; background-color: #04AA6D;} /* Green */
+.jav {width: 55%; background-color: #2196F3;} /* Blue */
+.js {width: 35%; background-color: #f44336;} /* Red */
+.htm {width: 20%; background-color: #808080;} /* Dark Grey */
 </style>
-<p>HTML</p>
+<p>C#</p>
 <div class="container">
-  <div class="skills html">90%</div>
+  <div class="skills csh">Intermediate</div>
 </div>
 
-<p>CSS</p>
+<p>Java</p>
 <div class="container">
-  <div class="skills css">80%</div>
+  <div class="skills jav">Intermediate/div>
 </div>
 
 <p>JavaScript</p>
 <div class="container">
-  <div class="skills js">65%</div>
+  <div class="skills js">Novice%</div>
 </div>
 
-<p>PHP</p>
+<p>HTML/CSS</p>
 <div class="container">
-  <div class="skills php">60%</div>
+  <div class="skills htm">Beginner</div>
 </div>
 
 Getting started

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am an 18 year old college student, enrolled in [Conestoga College](https://www.conestogac.on.ca)'s Computer Programming and Analysis program. My main interests in programming are 
-------
+
 Skills
 ======
 <style>

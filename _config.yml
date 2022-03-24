@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Timothy Ellery - Cloud Portfolio"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Timothy Ellery"
 description              : &description "personal description"
 url                      : https://tellery7261.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

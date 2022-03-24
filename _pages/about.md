@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "About Me"
+#title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-I am an 18 year old college student, enrolled in [Conestoga College](https://www.conestogac.on.ca)'s Computer Programming and Analysis program. My main interests in programming are
+I am an 18 year old college student enrolled in [Conestoga College](https://www.conestogac.on.ca)'s Computer Programming and Analysis program. My main interests Object-Oriented Programming and GUI Programming.
 
 Skills
-======
+------
 <style>
 * {box-sizing:border-box}
 .container {
@@ -24,10 +24,10 @@ Skills
   padding-bottom: 10px;
   color: white;
 }
-.csh {width: 60%; background-color: #42f542;} /* Green */
-.jav {width: 45%; background-color: #4242f5;} /* Blue */
+.csh {width: 55%; background-color: #42f542;} /* Green */
+.jav {width: 40%; background-color: #4242f5;} /* Blue */
 .jvs {width: 30%; background-color: #f2b90d;}/* Yellow */
-.htm {width: 25%; background-color: #f54242;} /* Red */
+.htm {width: 20%; background-color: #f54242;} /* Red */
 </style>
 
 C#

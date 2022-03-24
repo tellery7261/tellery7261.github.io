@@ -1,13 +1,11 @@
 ---
 permalink: /
-#title: "About Me"
-#excerpt: "About Me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
----
-About Me
 ---
 I am an 18 year old college student enrolled in [Conestoga College](https://www.conestogac.on.ca)'s Computer Programming and Analysis program. My main interests Object-Oriented Programming and GUI Programming.
 

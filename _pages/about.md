@@ -37,12 +37,12 @@ Skills
 
 <p>Java</p>
 <div class="container">
-  <div class="skills jav">Intermediate</div>
+  <div class="skills jav">Novice</div>
 </div>
 
 <p>JavaScript</p>
 <div class="container">
-  <div class="skills jvs">Novice</div>
+  <div class="skills jvs">Beginner</div>
 </div>
 
 <p>HTML/CSS</p>

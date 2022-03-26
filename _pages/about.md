@@ -27,7 +27,7 @@ Skills
 .csh {width: 45%; background-color: #19e619;} /* Green */
 .jav {width: 30%; background-color: #4242f5;} /* Blue */
 .jvs {width: 20%; background-color: #f2b90d;}/* Yellow */
-.htm {width: 10%; background-color: #f54242;} /* Red */
+.htm {width: 15%; background-color: #f54242;} /* Red */
 </style>
 
 C#

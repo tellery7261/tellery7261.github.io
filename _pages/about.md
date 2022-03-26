@@ -14,7 +14,7 @@ Skills
 <style>
 * {box-sizing:border-box}
 .container {
-  width: 75%;
+  width: 100%;
   background-color: #ddd;
 }
 .skills {
@@ -24,10 +24,10 @@ Skills
   padding-bottom: 10px;
   color: white;
 }
-.csh {width: 55%; background-color: #19e619;} /* Green */
-.jav {width: 40%; background-color: #4242f5;} /* Blue */
-.jvs {width: 30%; background-color: #f2b90d;}/* Yellow */
-.htm {width: 20%; background-color: #f54242;} /* Red */
+.csh {width: 45%; background-color: #19e619;} /* Green */
+.jav {width: 30%; background-color: #4242f5;} /* Blue */
+.jvs {width: 20%; background-color: #f2b90d;}/* Yellow */
+.htm {width: 10%; background-color: #f54242;} /* Red */
 </style>
 
 C#
